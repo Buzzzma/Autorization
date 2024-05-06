@@ -1,0 +1,17 @@
+D:\ис21\Autorization-master\Autorization-master\Autorization\bin\Debug\Autorization.exe.config
+D:\ис21\Autorization-master\Autorization-master\Autorization\bin\Debug\Autorization.exe
+D:\ис21\Autorization-master\Autorization-master\Autorization\bin\Debug\Autorization.pdb
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.csproj.AssemblyReference.cache
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\MainWindow.g.cs
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Window1.g.cs
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\App.g.cs
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization_MarkupCompile.cache
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization_MarkupCompile.lref
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\MainWindow.baml
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Window1.baml
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.g.resources
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.csproj.GenerateResource.cache
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.csproj.CoreCompileInputs.cache
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.exe
+D:\ис21\Autorization-master\Autorization-master\Autorization\obj\Debug\Autorization.pdb
